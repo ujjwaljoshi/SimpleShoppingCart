@@ -1,0 +1,5 @@
+Learning C# by projects. This app is for learning purpose only. 
+
+This was created following the example in following link:
+
+http://www.csharpaspnetarticles.com/2009/05/aspnet-creating-shopping-cart-example.html
